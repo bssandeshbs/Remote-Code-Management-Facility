@@ -1,0 +1,5 @@
+Warshall Floyd Algorithm 
+https://www.youtube.com/watch?v=9QV6QpyhN0o
+
+https://www.youtube.com/watch?v=mU1DYzxL8MU - LZ77 
+https://www.youtube.com/watch?v=j2HSd3HCpDs - LZW

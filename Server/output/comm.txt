@@ -1,0 +1,3 @@
+3. Do we need to explore only one directory, or also the sub directories ?
+
+AddButton for Files and Text Search

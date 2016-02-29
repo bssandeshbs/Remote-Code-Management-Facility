@@ -1,0 +1,75 @@
+CV - PHD
+Resume - Industry Jobs
+
+
+Parts of Resume 
+
+Heading 
+Objective - Optional 
+Education 
+Work Experience
+Computer Skills
+Languages
+Patents 
+Project
+
+only use scientific languages to demonstrate how you used it to achieve results.
+Show Employers that what you did, not just technologies used.
+
+use Active verbs that
+
+Designed
+Developed
+Analyzed 
+Wrote Report
+
+Avoid: 
+Was, Worked ( Ex : worked on linux project using MY-SQL
+
+Using active verbs 
+
+Don't write 
+wireless networking 
+Application of various design patterns and satellite communication systems 
+
+Instead write
+
+Analyzed Interplanetary Sensor Networl (ISN)
+Designed a wireless sensor network for astruanats to communicate in deep space
+Authored a technical report
+
+Avoid Reluictant Activities that Highlight your achievement 
+
+worked on Binghamton Dance
+Badmiton Universe Gold Medalist
+
+Instead write: 
+
+Winner 1st Prize, Science Exhibition June 2
+Volunteer, Habitat for Humanity
+
+Dont Include
+
+Passport
+Age
+Height
+DOB
+Mother Father name
+Maritial status
+References
+Mother or Father occupation 
+Salary requirements
+
+
+Final Tips
+
+Always keep your resume up-to-date
+Check spelling and grammer
+Find Someone to critique your resume 
+Add and change pertinent catagories when necessary
+
+Relevant Course Work - Mention if you have space, Don't mention all the courses - only the special ones
+
+Hard Copy Drop
+Monday/Tuesday 12:00 - 2:30
+Wednesday/Thursday 2:30 - 4:30 
