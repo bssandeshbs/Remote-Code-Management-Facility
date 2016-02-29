@@ -19,7 +19,11 @@ Your Message-Passing Communication project:
 6. (4) Shall, in response to a text search command, return a list of files that contain the text and the paths and machines on which they reside.
 
 7. (4) Shall, in response to a file search command, passing a path4 and file patterns, return a list of files with their paths found in the directory subtree rooted at the specified path. The client shall provide the option5 to return an XML string showing the entire directory subtree containing matched files.
+
 8. (1) shall support concurrent processing of text searches, including the capability to specify, at the client, the number of threads that will participate in that server processing.
+
 9. (1) Shall enable the measurement of time required to carry out a processing request and also the end-to-end time to request a processing task and receive the corresponding reply. Please display the results in milliseconds.
+
 10. (1) shall use the high resolution timer provided by the std::chrono library.
+
 11. The GUI client and server shall display information to demonstrate clearly and succinctly that all requirements of this project have been met6.
